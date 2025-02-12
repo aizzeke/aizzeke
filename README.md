@@ -9,7 +9,7 @@
 - ⚡ Fun facts: {
     I can play on guitar,
     I am a kazakh,
-    I am from ru of Naimans,
+    I am from ru of Naimans
   }
 <!---
 aizzeke/aizzeke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
