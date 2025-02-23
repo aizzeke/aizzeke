@@ -3,13 +3,10 @@
 - 🌱 I’m currently learning: {"ML", "DL", "NLP", "LLMs"}.
 - 📫 How to reach me: {
     https://t.me/aizzeke, 
-    kassymkhanov.aizat@gmail.com
   }
 - 😄 Pronouns: {he, him, his}
 - ⚡ Fun facts: {
-    I can play on guitar,
-    I am a kazakh,
-    I am from ru of Naimans
+    I can play on guitar
   }
 <!---
 aizzeke/aizzeke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
